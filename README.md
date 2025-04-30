@@ -1,3 +1,16 @@
+GROUP MEMBERS
+
+BT21CSE122 Vikash Rajput
+BT21CSE123 Harsh Lohiya
+BT21CSE141 Uday Bhati
+BT21CSE142 Vyankatesh Deshpande
+BT21CSE148 Prashant Kumar
+
+
+
+
+
+
 Reinforcement Learning for Stock Market Trading
 Strategy using Q_Learning
 This report details the work of our group on developing a stock market trading strategy using Q_Learning. The objective was to train a Reinforcement Learning (RL) agent to learn an optimal trading
