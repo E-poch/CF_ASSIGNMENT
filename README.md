@@ -1,5 +1,5 @@
 Reinforcement Learning for Stock Market Trading
-Strategy using Q-Learning
+Strategy using Q_Learning
 This report details the work of our group on developing a stock market trading strategy using QLearning. The objective was to train a Reinforcement Learning (RL) agent to learn an optimal trading
 policy using historical price data and technical indicators. The chosen trading style was not explicitly
 mentioned.
